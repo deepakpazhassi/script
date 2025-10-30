@@ -1,1 +1,2 @@
 rebase edit 1
+rebase edit 2
